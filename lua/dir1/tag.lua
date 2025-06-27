@@ -3,5 +3,3 @@ require('nvim-ts-autotag').setup({
     ["svelte"] = "html",
   }
 })
-
--- or
